@@ -1,0 +1,19 @@
+{
+  "name": "miswar-image-search-x49pmj",
+  "title": "مِصوَر — بحث وتجميع وتحميل الصور سريع وبحث تشعبي (x49pmj)",
+  "category": "أدوات الصور",
+  "description": "أداة البحث والتحميل السريع للصور مع بحث تشعبي وتصدير ZIP.",
+  "liveUrl": "https://x49pmj-3ckakwh6y-arcadawebapps9.vercel.app/",
+  "aliases": [],
+  "sourceLinks": [],
+  "originalTitle": "مِصوَر — بحث وتحميل الصور بكميات وتصدير ZIP",
+  "originalDescription": "مِصوَر — أداة البحث العميق عن الصور وتحميلها بكميات ضخمة وتصديرها كملفات ZIP",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "favicon.svg",
+    "assets/index-wwtuzhcs.js",
+    "assets/index-CVaArZ2V.css"
+  ]
+}
