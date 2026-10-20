@@ -1,4 +1,8 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "framework": null,
+  "rewrites": [
+    { "source": "/api/history", "destination": "/api/history" },    { "source": "/api/hypercrawl", "destination": "/api/hypercrawl" },    { "source": "/api/items", "destination": "/api/items" },    { "source": "/api/search", "destination": "/api/search" }
+  ]
 }
